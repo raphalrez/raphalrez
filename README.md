@@ -78,10 +78,10 @@ Me chamo Raphael Lazzarini, natural de Uberlândia/MG, formado em Ciência da Co
 
 ---
 
-<h3 align="center">Visitor Count</h3>
+<h3 align="center">Visualizações do Perfil</h3>
 
 <p align="center">
-	<!-- Provider estável e compatível com CSP do GitHub -->
-	<img src="https://visitcount.itsvg.in/api?id=raphalrez&label=Visitor%20Count&color=12&icon=5&pretty=true" alt="Visitor Count" />
+	<!-- Provider sem uso de Google Fonts (CSP-friendly) -->
+	<img src="https://komarev.com/ghpvc/?username=raphalrez&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
