@@ -65,7 +65,7 @@ Me chamo Raphael Lazzarini, natural de Uberlândia/MG, formado em Ciência da Co
 
 <!-- Cards de estatísticas (uso estável, sem private/commits totais) -->
 <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=raphalrez&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="160" alt="Streak" src="https://streak-stats.demolab.com/?user=raphalrez&theme=tokyonight&hide_border=true&type=png" />
+<img height="160" alt="Streak" src="https://github-readme-streak-stats-eight.vercel.app?user=raphalrez&theme=tokyonight&hide_border=true&locale=pt_BR&mode=weekly" />
 
 <br/>
 
