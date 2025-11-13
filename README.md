@@ -77,3 +77,11 @@ Me chamo Raphael Lazzarini, natural de Uberlândia/MG, formado em Ciência da Co
 
 <!-- Se desejar, ative GitHub Metrics/summary-cards via Actions para mais gráficos. -->
 
+---
+
+<h3 align="center">Visitor Count</h3>
+
+<p align="center">
+	<img src="https://profile-counter.glitch.me/raphalrez/count.svg" alt="Visitor Count" />
+</p>
+
