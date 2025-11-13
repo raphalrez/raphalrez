@@ -63,15 +63,14 @@ Me chamo Raphael Lazzarini, natural de Uberlândia/MG, formado em Ciência da Co
 
 <div align="center">
 
-<!-- Cards de estatísticas -->
-<img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=raphalrez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<!-- Cards de estatísticas (uso estável, sem private/commits totais) -->
+<img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=raphalrez&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 <img height="160" alt="Streak" src="https://streak-stats.demolab.com?user=raphalrez&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<!-- Linguagens mais utilizadas (2 estilos) -->
+<!-- Linguagens mais utilizadas -->
 <img height="160" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphalrez&layout=compact&theme=tokyonight&hide_border=true" />
-<img height="160" alt="Resumo de Tecnologias" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raphalrez&theme=tokyonight" />
 
 </div>
 
@@ -82,6 +81,7 @@ Me chamo Raphael Lazzarini, natural de Uberlândia/MG, formado em Ciência da Co
 <h3 align="center">Visitor Count</h3>
 
 <p align="center">
-	<img src="https://profile-counter.glitch.me/raphalrez/count.svg" alt="Visitor Count" />
+	<!-- Provider estável e compatível com CSP do GitHub -->
+	<img src="https://visitcount.itsvg.in/api?id=raphalrez&label=Visitor%20Count&color=12&icon=5&pretty=true" alt="Visitor Count" />
 </p>
 
