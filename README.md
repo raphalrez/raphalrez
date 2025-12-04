@@ -63,14 +63,20 @@ Me chamo Raphael Lazzarini, natural de Uberlândia/MG, formado em Ciência da Co
 
 <div align="center">
 
-<!-- Cards de estatísticas (uso estável, sem private/commits totais) -->
-<img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=raphalrez&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="160" alt="Streak" src="https://github-readme-streak-stats-eight.vercel.app?user=raphalrez&theme=tokyonight&hide_border=true&locale=pt_BR&mode=weekly" />
+<!-- Cards de estatísticas usando instâncias alternativas -->
+<a href="https://github.com/raphalrez">
+  <img height="160" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raphalrez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/raphalrez">
+  <img height="160" alt="Streak" src="https://github-readme-streak-stats-eight.vercel.app?user=raphalrez&theme=tokyonight&hide_border=true&locale=pt_BR&mode=weekly" />
+</a>
 
 <br/>
 
 <!-- Linguagens mais utilizadas -->
-<img height="160" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphalrez&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/raphalrez">
+  <img height="160" alt="Top Langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raphalrez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
 
 </div>
 
